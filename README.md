@@ -13,4 +13,5 @@ This script explores the motion of a double pendulum and a numerical solution to
 
 ### Source
 The source of the equations and exercises is computational physics by Mark Newman.
+
 Newman, M., 2013. Computational physics. CreateSpace Independent Publication.
